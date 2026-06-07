@@ -1,3 +1,5 @@
+✨ Welcome to my GitHub Profile!
+
 # Hi 👋 I'm Vaishnavi Udawant
 
 🎓 B.Tech CSE Student
@@ -19,4 +21,4 @@ SSIEMS, Parbhani
 🎓 University: 
 DBATU, Lonere
 
-✨ Welcome to my GitHub Profile!
+⭐ Thanks for visiting my profile!
