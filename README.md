@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png.jpg" alt="GitHub Banner">
+</p>
+
+
 ✨ Welcome to my GitHub Profile!
 
 # Hi 👋 I'm Vaishnavi Udawant
