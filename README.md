@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Vaishnavi Udawant
 
-<!--
-**vaishnviudawant/vaishnviudawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Skills:
+- Java
+- Python
+- HTML
+- CSS
+- C++
+- C Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning:
+- Web Development
+- Data Structures
+
+📚 College:
+SSIEMS, Parbhani
+🎓 University: 
+DBATU, Lonere
+
+✨ Welcome to my GitHub Profile!
